@@ -1,6 +1,4 @@
-{
-	"data": 
-	[
+[
 		{
 			"ticketToken": "ABCD2345",
 			"requestingSystem": "mock",
@@ -56,4 +54,3 @@
 			"status": "SUBMITTED"
 		}
 	]
-}
